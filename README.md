@@ -20,7 +20,7 @@
 <div> 
   
   <a href = "mailto:js709406.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/joão-vitor-soares-2a938020b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[www.linkedin.com/in/joão-vitor-soares-2a938020b](https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-2a938020b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/viktorsoares/viktorsoares/blob/output/github-contribution-grid-snake.svg)
  
